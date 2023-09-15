@@ -1,8 +1,8 @@
-#Go application load balanceing using docker compose
+
 
 # Nginx Load balancing Sample
 
-> This is a sample golang fiber app using nginx as load balancer.
+> Go application load balanceing using docker compose
 
 ## How To Run
 1. Edit line 2 and 3 in file ./nginx/nginx.conf
