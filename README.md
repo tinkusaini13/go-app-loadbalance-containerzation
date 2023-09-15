@@ -1,5 +1,3 @@
-
-
 # Nginx Load balancing Sample
 
 > Go application load balanceing using docker compose
@@ -16,5 +14,7 @@ $ cd {go-to-project}
 $ docker-compose up -d
 ```
 5. Open browser
+```bash
+$ http://public-ip:8080
 
-    http://docker-ip:8080
+         
